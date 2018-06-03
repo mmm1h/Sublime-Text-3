@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Anaconda",
+		"AutoFileName",
+		"ChineseLocalizations",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"FileHeader",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"Terminal",
+		"Zen Tabs"
+	]
+}

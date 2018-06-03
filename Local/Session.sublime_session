@@ -1,0 +1,584 @@
+{
+	"folder_history":
+	[
+		"/G/Python_pjt"
+	],
+	"last_version": 3176,
+	"last_window_id": 8,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 617.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sys",
+						"system\tfunction"
+					],
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Administrator/Desktop/test.bat",
+				"/C/Users/Administrator/Desktop/asddd.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/ZenTabs.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/Desktop/sss.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+				"/C/Users/Administrator/Desktop/asd.py",
+				"/C/Users/Administrator/Desktop/糙汉.txt",
+				"/C/Users/Administrator/Desktop/steam帐号.txt",
+				"/C/Users/Administrator/Desktop/JetBrains全家通激活码.txt"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 126.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 180.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1004.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sys",
+						"system\tfunction"
+					],
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/G/Python_pjt/Test.py",
+					"settings":
+					{
+						"buffer_size": 4477,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/Python/Python.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 158.0,
+				"history":
+				[
+					"pro"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/G/Python_pjt"
+			],
+			"file_history":
+			[
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Python3.sublime-build",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/C/Users/Administrator/Desktop/test.bat",
+				"/C/Users/Administrator/Desktop/asddd.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/ZenTabs.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/Desktop/sss.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+				"/C/Users/Administrator/Desktop/asd.py",
+				"/C/Users/Administrator/Desktop/糙汉.txt",
+				"/C/Users/Administrator/Desktop/steam帐号.txt",
+				"/C/Users/Administrator/Desktop/JetBrains全家通激活码.txt"
+			],
+			"find":
+			{
+				"height": 42.0
+			},
+			"find_in_files":
+			{
+				"height": 108.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"”"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "G:\\Python_pjt"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/G/Python_pjt/Test.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4477,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3908,
+										3908
+									]
+								],
+								"settings":
+								{
+									"SL.13.region_keys":
+									[
+										"SL.flake8.Highlights.|98140c023a7d99452e61a95b82c8d8f4a54623ca7c7ae5f283c039b1e563dcf5|region.yellowish markup.warning.sublime_linter|2340",
+										"SL.flake8.Highlights.|8974ed23b2a3e22616cdeddd4394dfb26a723de67dccead8abf1a654da12de9f|region.yellowish markup.warning.sublime_linter|2340",
+										"SL.flake8.Highlights.|8beb661675c041bdd742f5d79c7ade1bb4eb0bd00654f08363c060477d958ed5|region.yellowish markup.warning.sublime_linter|2340",
+										"SL.flake8.Highlights.|d900b2f1cc80083985207861c5cfc7f98e85673bcbebc304b6aecceea57e682d|region.yellowish markup.warning.sublime_linter|2340",
+										"SL.flake8.Highlights.|cebf82a88311d09033c2ffb2d06b8caa1b0579ec8698cbcfec87f1f420bde9f3|region.yellowish markup.warning.sublime_linter|2340",
+										"SL.flake8.Highlights.|d82daab1ede51f7a1de4f260e255b1cf57e3751c370475f4ed3ea0d9c205b8e1|region.yellowish markup.warning.sublime_linter|2340",
+										"sublime_linter.protected_regions",
+										"SL.flake8.Highlights.|14f8774d1c72779c896c860aee9d2974b3efc0b737bb4573018fc1a2101e81c7|region.yellowish markup.warning.sublime_linter|2340",
+										"SL.flake8.Highlights.|29b27e8a04f0d645380b3a2ab42462e198160a879b309dab905efaee94631081|region.yellowish markup.warning.sublime_linter|2340",
+										"SL.flake8.Highlights.|0077ee7bbeac4a367a4defdafc9e08183349ae8a499fc8f9325a6f59dad4e06b|region.yellowish markup.warning.sublime_linter|2340",
+										"SL.flake8.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+										"SL.flake8.Highlights.|cec8110d48c459ace8ad7de5fd0cd843ff25b54b7f26d474f7327c3d78021434|region.yellowish markup.warning.sublime_linter|2340",
+										"SL.flake8.Highlights.|ca6f34f1d1482d264e931768058161637645e6d207bc77eac3517490b9538ed6|region.yellowish markup.warning.sublime_linter|2340"
+									],
+									"SL.28.region_keys":
+									[
+										"SL.flake8.Highlights.|04ffd8e9bd06b341bf8e739843044580dac27234135005db3fd38bac1e1884c1|region.yellowish markup.warning.sublime_linter|2340",
+										"sublime_linter.protected_regions",
+										"SL.flake8.Highlights.|114aab1faecbdd87b3badd29c608e3b3aeb889b8352fd3fe7ffbaa867a4d9cb4|region.yellowish markup.warning.sublime_linter|2340",
+										"SL.flake8.Highlights.|18844091e9c7dfce088bfb5a6b4397ae36e8b1735e8a8b5e371025a7a232baab|region.yellowish markup.warning.sublime_linter|2340",
+										"SL.flake8.Highlights.|0cd6651f60b165058b88c2fed0de80a9d045e5e192e556cc404be610f945c9f3|region.yellowish markup.warning.sublime_linter|2340",
+										"SL.flake8.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+										"SL.flake8.Highlights.|ef64754c5d6177e9afb5d9ff91bb26ceff881d492beddce3d41f66e05ba2e77a|region.yellowish markup.warning.sublime_linter|2340"
+									],
+									"auto_complete_triggers":
+									[
+										{
+											"characters": ".",
+											"selector": "source.python - string - comment - constant.numeric"
+										},
+										{
+											"characters": ".",
+											"selector": "source.python - string - constant.numeric"
+										},
+										{
+											"characters": ".",
+											"selector": "source.python - string - constant.numeric"
+										}
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										226,
+										6,
+										3,
+										4,
+										33,
+										35,
+										11,
+										181,
+										161,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"force_encoding": "UTF-8",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 2870.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 41.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 145.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/Python3.sublime-build",
+			"position": "0,2,3,-32000,-32000,-1,-1,911,450,157,1769",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 225.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 8,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

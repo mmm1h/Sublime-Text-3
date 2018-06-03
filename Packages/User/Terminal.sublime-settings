@@ -1,0 +1,7 @@
+{
+
+    "terminal": "c:\\WINDOWS\\system32\\cmd.exe",
+
+     "parameters": ["/START","%CWD%"]
+
+}
