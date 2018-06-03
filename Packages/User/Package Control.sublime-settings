@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"All Autocomplete",
 		"Anaconda",
 		"AutoFileName",
 		"ChineseLocalizations",
@@ -13,10 +14,13 @@
 		"ConvertToUTF8",
 		"DocBlockr",
 		"FileHeader",
+		"LuaSimpleComplete",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-flake8",
+		"SublimeLinter-lua",
+		"SublimeLinter-luacheck",
 		"Terminal",
 		"Zen Tabs"
 	]
